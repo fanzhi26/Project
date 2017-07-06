@@ -1,0 +1,12 @@
+Temp
+Temp/*
+Library
+Library/*
+CF2-Data
+CF2-Data/*
+.DS_Store
+*.sln
+*.csproj
+.vs
+.vs/*
+*.suo
